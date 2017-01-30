@@ -1,6 +1,6 @@
 {
    "name" : "getopt",
-   "version" : "???",
+   "version" : "1.0.0",
    "description" : "nodejs module for config and cmdline\nRead configs from object and json-file, also parse cmdline.",
    "main" : "getopt.js",
    "engines" : { "node" : ">=6.9.2 <7.999" }
